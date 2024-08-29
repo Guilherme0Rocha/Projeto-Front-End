@@ -5,4 +5,4 @@ Grupo:
 - [Enzo Lazzarotto](https://github.com/Lazzarotto2/react-base-project)
 - [Rafael Viana](https://github.com/vianaR25/react-base-project)
 - [João Gabriel](https://github.com/jmeirelles02/react-base-project)
-- Vitor Oliveira ()
+- [Vitor Oliveira](https://github.com/VitorOsouza02/react-base-project)
