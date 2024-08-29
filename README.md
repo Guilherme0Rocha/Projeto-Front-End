@@ -7,12 +7,12 @@ Grupo:
 - [João Gabriel](https://github.com/jmeirelles02/react-base-project)
 - [Vitor Oliveira](https://github.com/VitorOsouza02/react-base-project)
 
-O sistema será um site portfólio de projetos feitos por alunos do IBMEC.
+- Propósito: Apresentar projetos feitos por alunos e gerar interesse.
 
-- O que?
-- Onde?
-- Por Que?
-- Quando?
-- Quem?
-- Como?
-- Quanto?
+- O que? : O sistema será um site portfólio de projetos feitos por alunos do IBMEC.
+- Onde? : Em um site, disponível para acesso em dispositivos como um computador.
+- Por Que? : Para auxiliar os alunos a montarem seus currículos mais facilmente.
+- Quando? : (Dúvida) Quando o cliente vai acessar?
+- Quem? : Clientes interessados nos projetos dos alunos.
+- Como? : Irá apresentar os projetos em forma de lista, com dados sobre o projeto (Dados do aluno, Nome do projeto, Resumo sobre o projeto, ...).
+- Quanto? : (Dúvida) Custo para construir? Custo para acessar? Custo para adquirir?
