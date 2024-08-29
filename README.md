@@ -8,5 +8,12 @@ Grupo:
 - [Vitor Oliveira](https://github.com/VitorOsouza02/react-base-project)
 
 Propósito do sistema:
+O sistema será um site portfólio de projetos feitos por alunos do IBMEC.
 
-5W2H:
+- O que?:
+- Onde?:
+- Por Que?:
+- Quando?:
+- Quem?:
+- Como?:
+- Quanto?:
