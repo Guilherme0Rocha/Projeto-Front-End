@@ -10,7 +10,7 @@ Grupo:
 - Propósito: Apresentar projetos feitos por alunos e gerar interesse.
 
 - O que? : O sistema será um site portfólio de projetos feitos por alunos do IBMEC.
-- Onde? : Em um site, disponível para acesso em dispositivos como um computador.
+- Onde? : Na Web, disponível para acesso em dispositivos como um computador.
 - Por Que? : Para auxiliar os alunos a montarem seus currículos mais facilmente.
 - Quando? : (Dúvida) Quando o cliente vai acessar?
 - Quem? : Clientes interessados nos projetos dos alunos.
