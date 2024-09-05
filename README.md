@@ -15,7 +15,7 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 - O que? : O sistema será um site portfólio de projetos feitos por alunos do IBMEC.
 - Onde? : Na Web, disponível para acesso em dispositivos como um computador.
 - Por Que? : Para auxiliar os alunos a montarem seus currículos mais facilmente.
-- Quando? : (Dúvida) Quando o cliente vai acessar?
+- Quando? : O sistema será usado quando houver interesse de alguém nos projetos dos alunos.
 - Quem? : Clientes interessados nos projetos dos alunos.
 - Como? : Irá apresentar os projetos em forma de lista, com dados sobre o projeto (Dados do aluno, Nome do projeto, Resumo sobre o projeto, ...).
-- Quanto? : (Dúvida) Custo para construir? Custo para acessar? Custo para adquirir?
+- Quanto? : O projeto custará o tempo usado pelos membros do grupo para fazer o sistema. O sistema será gratuito para uso.
