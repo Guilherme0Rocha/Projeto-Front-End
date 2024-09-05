@@ -8,7 +8,7 @@ Grupo: Link
 - [Vitor Oliveira](https://github.com/VitorOsouza02/react-base-project)
 
 # Propósito:
-Apresentar projetos feitos por alunos e gerar interesse.
+Apresentar projetos feitos por alunos como um portfólio e gerar interesse no trabalho dos alunos.
 
 # SW2H
 
