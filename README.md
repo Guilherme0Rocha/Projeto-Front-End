@@ -10,7 +10,7 @@ Grupo: Link
 # Propósito:
 Apresentar projetos feitos por alunos como um portfólio e gerar interesse no trabalho dos alunos.
 
-# SW2H
+# 5W2H
 
 - O que? : O sistema será um site portfólio de projetos feitos por alunos do IBMEC.
 - Onde? : Na Web, disponível para acesso em dispositivos como um computador.
