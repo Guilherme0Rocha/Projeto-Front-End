@@ -20,4 +20,10 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 - Como? : Irá apresentar os projetos em forma de lista, com dados sobre o projeto (Dados do aluno, Nome do projeto, Resumo sobre o projeto, ...).
 - Quanto? : O projeto custará o tempo usado pelos membros do grupo para fazer o sistema. O sistema será gratuito para uso.
 
-# Requisitos Funcionais e Não Funcionais 
+# Requisitos
+
+## Requisitos Funcionais
+- Login e Autenticação de Administradores
+
+## Requisitos Não Funcionais
+- Desempenho
