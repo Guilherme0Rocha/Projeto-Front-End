@@ -1,9 +1,0 @@
-Requisitos
-
-Funcionais
-- Login e Autenticação de Administradores
-- Envio de Projetos
-
-Não Funcionais
-- Desempenho
-- Escalabilidade
