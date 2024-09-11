@@ -1,7 +1,7 @@
-# Requisitos
+Requisitos
 
-## Funcionais
+Funcionais
 - Login e Autenticação de Administradores
 
-## Não Funcionais
+Não Funcionais
 - Desempenho
