@@ -25,7 +25,9 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 ## Requisitos Funcionais
 - Login e Autenticação de Administradores
 - Envio de Projetos
+- Listagem de Projetos
 
 ## Requisitos Não Funcionais
 - Desempenho
 - Escalabilidade
+- Responsividade 
