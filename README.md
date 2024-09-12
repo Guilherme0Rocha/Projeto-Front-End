@@ -33,3 +33,5 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 - Escalabilidade
 - Responsividade
 - Manutenibilidade
+- Compatibilidade
+- Usabilidade
