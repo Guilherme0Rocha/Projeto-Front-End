@@ -23,19 +23,19 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 # Requisitos
 
 ## Requisitos Funcionais
-- O sistema deve listar projetos
-- O sistema deve apresentar o email de contato dos integrantes do projeto
-- O sistema deve autenticar  o administrador através de login
-- O sistema deve ter uma barra de busca com o intuito de encontrar os projetos
-- O sistema deve ter um botão de filtro para os projetos 
+- O sistema devera listar projetos
+- O sistema devera apresentar o email de contato dos integrantes do projeto
+- O sistema devera autenticar  o administrador através de login
+- O sistema devera ter uma barra de busca com o intuito de encontrar os projetos
+- O sistema devera ter um botão de filtro para os projetos 
 - O sistema devera ter uma descrição do projeto
-- O sistema deve apresentar na descrição do projeto o tempo de duração e função de cada integrante que confeccionou o projeto
+- O sistema devera apresentar na descrição do projeto o tempo de duração e função de cada integrante que confeccionou o projeto
 - O sistema devera apresentar na descrição do projeto : a linguagem , tecnologias e ferramentas utilizadas no projeto
 
 
 ## Requisitos Não Funcionais
-- O sistema deve ser compatível com os principais navegadores e dispositivos 
+- O sistema devera ser compatível com os principais navegadores e dispositivos 
 - O sistema devera ter um banco de dados não relacional 
-- O sistema deve ter inspiração na identidade visual IBMEC
+- O sistema devera ter inspiração na identidade visual IBMEC
 - O sistema devera ser feito em javascript com framework em React
 
