@@ -36,7 +36,7 @@
     4. O sistema remove o projeto da lista de projetos exibidos.
 * **Pós-condição**: O projeto é removido do portfólio e não está mais disponível para visualização pelos usuários .
 
-### Caso de Uso 4: Visualizar Projetos
+### Caso de Uso 4: Listar Projetos
 * **Atores**: Empresa, Administrador, Aluno
 * **Descrição**: Usuários visualizam os projetos cadastrados no site.
 * **Pré-condições**: Deve haver pelo menos um projeto cadastrado no sistema.
