@@ -35,28 +35,3 @@
 
 ##	O sistema apresentará o e-mail de contato dos integrantes do projeto;
   -	No final da descrição do projeto, estarão os e-mails de contato dos integrantes que realizaram o projeto.
-
-# Requisitos Não Funcionais
-
-## O sistema deverá ser compatível com os principais navegadores e dispositivos:
-  - O sistema será testado e otimizado para funcionar nos navegadores mais populares, incluindo:
-    - Google Chrome
-    - Mozilla Firefox
-    - Microsoft Edge
-    - Safari
-  - O layout e os elementos visuais serão adaptados de acordo com o tamanho da tela, garantindo uma experiência fluida e consistente em diferentes resoluções.
-
-## O sistema deverá ter um banco de dados não relacional:
-  - O sistema utilizará um banco de dados NoSQL, como MongoDB ou Firebase, para armazenar os dados de forma eficiente.
-  - O banco de dados será otimizado para consultas rápidas e flexíveis, suportando grandes volumes de dados sem prejudicar o desempenho.
-  - A estrutura dos dados será projetada para ser escalável, permitindo adições e atualizações frequentes sem a necessidade de grandes refatorações.
-
-## O sistema deverá ter inspiração na identidade visual IBMEC:
-  - O sistema seguirá a paleta de cores, tipografia e padrões de design baseados na identidade visual do IBMEC.
-  - A tipografia será consistente com a usada pela instituição, garantindo um design visualmente harmonioso e alinhado com a marca.
-  - Ícones e elementos gráficos serão cuidadosamente escolhidos para manter a estética institucional.
-
-## O sistema deverá ser feito em JavaScript com framework em React:
-  - O sistema será desenvolvido utilizando o framework React, garantindo uma interface de usuário dinâmica e de alta performance.
-  - O uso de componentes reutilizáveis no React permitirá uma manutenção mais simples e uma estrutura modular.
-  - O React será utilizado para criar uma experiência de navegação rápida e sem recarregamentos de página, melhorando a usabilidade geral do sistema.
