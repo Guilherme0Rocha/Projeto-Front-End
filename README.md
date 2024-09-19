@@ -39,3 +39,9 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 - O sistema devera ter inspiração na identidade visual IBMEC
 - O sistema devera ser feito em javascript com framework em React
 
+
+## Descrição dos Requisitos
+Descrição dos Requisitos (https://github.com/Guilherme0Rocha/Projeto-Front-End/blob/main/descricao_requisitos.md)
+
+## Casos de uso
+Casos de uso (https://github.com/Guilherme0Rocha/Projeto-Front-End/blob/main/casodeuso.md)
