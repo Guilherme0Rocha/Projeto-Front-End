@@ -1,11 +1,11 @@
 # Requisitos Funcionais
 
 •	O sistema listará os projetos;
-  o	O sistema apresentará os projetos de forma finita e por meio de páginas
-  o	O sistema de paginação terá uma quantidade x de projetos por páginas, um menu para navegar entre as páginas e uma breve descrição de cada projeto (aluno, curso, ano realizado)
-  o	O sistema agrupará  a exibição dos projetos em colunas
-    	1 coluna em dispositivos móveis
-    	4 colunas em tablets
+  -	O sistema apresentará os projetos de forma finita e por meio de páginas
+  -	O sistema de paginação terá uma quantidade x de projetos por páginas, um menu para navegar entre as páginas e uma breve descrição de cada projeto (aluno, curso, ano realizado)
+  -	O sistema agrupará  a exibição dos projetos em colunas
+    -	1 coluna em dispositivos móveis
+    -	4 colunas em tablets
     	6 colunas em telas de até 1200px
     	8 colunas em telas maiores
 •	Abrindo os projetos o sistema mostrará o conteúdo do projeto e algumas informações
