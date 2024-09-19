@@ -1,6 +1,6 @@
 # Requisitos Funcionais
 
--	O sistema listará os projetos;
+##	O sistema listará os projetos;
   -	O sistema apresentará os projetos de forma finita e por meio de páginas.
   -	O sistema de paginação terá uma quantidade x de projetos por páginas, um menu para navegar entre as páginas e uma breve descrição de cada projeto (aluno, curso, ano realizado).
   -	O sistema agrupará  a exibição dos projetos em colunas.
