@@ -1,4 +1,4 @@
-### Cadastrar Projeto
+### Caso de Uso 1: Cadastrar Projeto
 * **Atores**: Administrador
 * **Descrição**: O administrador cadastra um novo projeto no site para que seja exibido no portfólio dos alunos.
 * **Pré-condições**: O administrador deve estar autenticado no sistema.
