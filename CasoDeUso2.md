@@ -1,4 +1,4 @@
-### Caso de Uso 2: Editar Projeto
+### Editar Projeto
 * **Atores**: Administrador
 * **Descrição**: O administrador altera as informações de um projeto existente no site.
 * **Pré-condições**: O projeto deve estar cadastrado, e o administrador deve estar autenticado.
