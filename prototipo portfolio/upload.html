@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload de Arquivos Avançado</title>
+    <link rel="stylesheet" href="styleupload.css">
+</head>
+<body>
+
+    <div class="upload-container">
+        <h1>Envio de Arquivos</h1>
+        <p>Arraste seu arquivo aqui ou clique para selecionar.</p>
+
+        <!-- Área de arrastar e soltar -->
+        <div id="drop-area">
+            <form class="upload-form" action="/upload" method="POST" enctype="multipart/form-data">
+                <input type="file" id="fileElem" multiple accept="image/*,application/pdf" onchange="handleFiles(this.files)">
+                <label class="button" for="fileElem">Escolher Arquivo</label>
+            </form>
+        </div>
+
+        <!-- Exibição do progresso e detalhes do arquivo -->
+        <div id="file-preview">
+            <p id="file-info"></p>
+            <div class="progress-bar" id="progress-bar"></div>
+        </div>
+
+        <!-- Mensagens de status -->
+        <div id="status-message"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
