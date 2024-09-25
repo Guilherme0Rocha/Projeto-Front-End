@@ -18,7 +18,7 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 - Quando? : O sistema será usado quando houver interesse de alguém nos projetos dos alunos.
 - Quem? : Clientes interessados nos projetos dos alunos.
 - Como? : Irá apresentar os projetos em forma de lista, com dados sobre o projeto (Dados do aluno, Nome do projeto, Resumo sobre o projeto, ...).
-- Quanto? : O projeto custará o tempo usado pelos membros do grupo para fazer o sistema. O sistema será gratuito para uso.
+- Quanto? : O sistema custará o tempo usado pelos membros do grupo. O sistema será gratuito para uso.
 
 # Requisitos
 
