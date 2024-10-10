@@ -48,3 +48,6 @@ Apresentar projetos feitos por alunos como um portfólio e gerar interesse no tr
 
 ## Protótipo (Figma)
 [Protótipo](https://www.figma.com/proto/LWHGqWtwT8wYM3HgoK3fej/Protótipo?node-id=1-8&node-type=canvas&t=jgKGT6hTH0gpS7hL-0&scaling=contain&content-scaling=responsive&page-id=0%3A1&starting-point-node-id=1%3A8)
+
+## Apresentação P1
+[Apresentação](https://github.com/Guilherme0Rocha/Projeto-Front-End/blob/main/p1-apresenta%C3%A7%C3%A3o-primeira-parte-projeto.pdf)
